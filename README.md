@@ -3,5 +3,5 @@ A repo for having a go at hacker rank challenge questions on statistics, algorit
 And everything in between those.
 
 Language stack:
-1. JavaScript
-2. Java
+	1. JavaScript
+	2. Java
